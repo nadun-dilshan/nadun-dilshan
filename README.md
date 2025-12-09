@@ -2,13 +2,13 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+%40+Botcalm;Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer+%40+Botcalm;Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
   
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **associate Software Engineer** at **Botcalm** with expertise in **Full Stack Development**. I love crafting scalable web applications and exploring cutting-edge technologies to solve real-world problems.
+I'm a passionate **Associate Software Engineer** at **Botcalm** with expertise in **Full Stack Development**. I love crafting scalable web applications and exploring cutting-edge technologies to solve real-world problems.
 
 - 🔭 I'm currently working at **Botcalm** as a Software Engineer Intern
 - 🌱 I'm constantly learning and improving my skills in **React.js, Next.js, Node.js, and Laravel**
