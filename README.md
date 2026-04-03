@@ -87,9 +87,9 @@ I'm a passionate **Associate Software Engineer** at **Botcalm** with expertise i
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nadundilshan.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nadun.me/)
   [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://nadundilshan.netlify.app/components/Nadun_Dilshan_Software_Engineer_Intern.pdf)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadun.dev@outlook.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@nadun.me)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadun-dilshan)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nadundilshan)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadun-dilshan)
