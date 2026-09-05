@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Associate Software Engineer** at **Botcalm** with expertise in **Full Stack Development**. I love crafting scalable web applications and exploring cutting-edge technologies to solve real-world problems.
+I'm a passionate **Associate Software Engineer** with expertise in **Full Stack Development**. I love crafting scalable web applications and exploring cutting-edge technologies to solve real-world problems.
 
 - 🔭 I'm currently working at **Botcalm** as a Associate Software Engineer.
 - 🌱 I'm constantly learning and improving my skills in **React.js, Next.js, Node.js, and Laravel**
